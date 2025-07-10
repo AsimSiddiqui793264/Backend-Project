@@ -7,15 +7,15 @@ const videoSchemna = new Schema({
         require : true
     },
     thumbnail : {
-        type : String, //cloudinary url
+        type : String, 
         require : true
     },
     title : {
-        type : String, //cloudinary url
+        type : String, 
         require : true
     },
     description : {
-        type : String, //cloudinary url
+        type : String, 
         require : true
     },
 duration : {
